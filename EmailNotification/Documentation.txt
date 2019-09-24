@@ -1,0 +1,10 @@
+Necessary Packages:
+smtplib
+pyzmail
+    to install pip intall pyzmail36 for python 3.6
+
+Email Search Parameters:
+
+    Since Today - 1
+    From: email addresses in list 
+    Unseen

@@ -1,0 +1,31 @@
+{
+    "config": {
+        "Twilio" : {
+            "AccountSid" : "AC7a4a54ceb3d2fee3555024aab3602c3b",
+            "AuthToken" : "0f5d9957965962dd08a4f45ec272ebf3",
+            "TwilioNumber" : "+14692127876",
+            "SendNumber" : "+9729658831"
+        },
+        "Accounts": {
+            "Account": "Hartigen Outlook", 
+               "AccountInfo" : {
+                   "Login" : "Charlie@hartigen.com",
+                   "Password" : "Welc0me1$",
+                   "Imap" : "imap-mail.outlook.com"
+            },
+                "ImportantEmails": {
+                    "1" :{
+                        "Email" : "daryl@hartigen.com",
+                        "FirstName" : "Daryl",
+                        "LastName" : "Cote"
+                    },
+                    "2" : {
+                        "Email" : "david@hartigen.com",
+                        "FirstName" : "David",
+                        "LastName" : "Potts"
+                    }
+                }
+                
+        }
+    }
+}
